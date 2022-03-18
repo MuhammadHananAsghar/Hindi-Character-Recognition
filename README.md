@@ -18,12 +18,12 @@ In this Project we create and train a Convolutional Neural Network (CNN) , using
 - Task: Get predictions on a test batch and display the test batch along with prediction
 
 ## Random Batch
-![](/Hindi Character Recognition/batch.png)
+![](/Hindi%20Character%20Recognition/batch.png)
 ## Model Predictions
-![](/Hindi Character Recognition/predict.png)
+![](/Hindi%20Character%20Recognition/predict.png)
 ## Accuracy and Loss
-![](/Hindi Character Recognition/loss.png)
-![](/Hindi Character Recognition/acc.png)
+![](/Hindi%20Character%20Recognition/loss.png)
+![](/Hindi%20Character%20Recognition/acc.png)
 
 ```
 Implemented by Muhammad Hanan Asghar
