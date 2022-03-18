@@ -3,6 +3,9 @@
 ## Keras
 ```Keras``` is an open-source software library that provides a Python interface for artificial neural networks. Keras acts as an interface for the TensorFlow library. Up until version 2.3, Keras supported multiple backends, including TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML.
 
+## Character Recognition
+Optical character recognition or optical character reader is the electronic or mechanical conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo or from subtitle text superimposed on an image.
+
 ## Objectives
 In this Project we create and train a Convolutional Neural Network (CNN) , using ```Keras``` library. The objective of this project is to recognize hindi characters of 46 different classes.
 
